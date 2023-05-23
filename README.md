@@ -1,2 +1,1 @@
-#DingRobotPRO
-123
+#DingRobotPRO123
